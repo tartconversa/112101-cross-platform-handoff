@@ -1,0 +1,4 @@
+record_id,action_id,revision,opened_at,scope_ref,coordinator,state
+actions-01,ACT-7,1,2026-08-01T08:00:00Z,SCOPE-A,UNIT-1,active
+actions-02,ACT-7,2,2026-08-02T10:00:00Z,SCOPE-B,UNIT-1,amended
+actions-03,ACT-8,1,2026-08-03T12:00:00Z,SCOPE-C,UNIT-2,active

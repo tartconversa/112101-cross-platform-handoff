@@ -1,0 +1,4 @@
+record_id,receipt_id,finding_id,received_at,action_code,receipt_state,correction_ref
+receipts-01,RC-3,F-21,2026-08-02T14:00:00Z,restricted,accepted,
+receipts-02,RC-4,F-21,2026-08-03T08:00:00Z,restricted,corrected,REV-2
+receipts-03,RC-5,F-22,2026-08-05T11:00:00Z,,needs_evidence,
