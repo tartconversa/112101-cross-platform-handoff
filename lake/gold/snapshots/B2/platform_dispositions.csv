@@ -1,0 +1,8 @@
+action_id,platform_id,latest_revision,coordinator,notified_measure_code,disposition_state,disposition_label,finding_id,local_object_ref,content_fingerprint,match_state,matched_at,latest_receipt_id,latest_receipt_state,latest_received_at,receipt_count,correction_count,executed_at,lead_time_hours,duplicate_delivery_count,evidence_record_ids,evidence_batches,as_of_batch
+ACT-7,PLAT-A,2,UNIT-1,restrict,executed,已执行,F-21,OBJ-51,FP-RUMOR-1,confirmed,2026-08-01T12:00:00Z,RC-3,accepted,2026-08-02T14:00:00Z,1,0,2026-08-02T14:00:00Z,29.0,0,notices-04|platform_findings-01|receipts-01,B2|B1|B2,B2
+ACT-7,PLAT-B,2,UNIT-1,restrict,under_review,正在核实,F-22,OBJ-93,FP-RUMOR-1,confirmed,2026-08-02T16:00:00Z,,,,0,0,,,0,notices-05|platform_findings-02,B2|B2,B2
+ACT-7,PLAT-C,2,UNIT-1,restrict,not_reached,未触达,,,,,,,,,0,0,,,0,notices-06,B2,B2
+ACT-7,PLAT-D,2,UNIT-1,restrict,not_reached,未触达,,,,,,,,,0,0,,,0,notices-07,B2,B2
+ACT-8,PLAT-A,1,UNIT-2,takedown,not_reached,未触达,,,,,,,,,0,0,,,0,notices-08,B2,B2
+ACT-8,PLAT-C,1,UNIT-2,takedown,not_reached,未触达,,,,,,,,,0,0,,,0,notices-09,B2,B2
+ACT-8,PLAT-E,1,UNIT-2,takedown,not_reached,未触达,,,,,,,,,0,0,,,0,notices-10,B2,B2

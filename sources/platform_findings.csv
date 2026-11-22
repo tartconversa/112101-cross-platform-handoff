@@ -1,4 +1,12 @@
-record_id,finding_id,action_id,action_revision,platform_id,local_object_ref,matched_at,match_state
-platform_findings-01,F-21,ACT-7,1,PLAT-A,OBJ-51,2026-08-01T12:00:00Z,confirmed
-platform_findings-02,F-22,ACT-7,2,PLAT-B,OBJ-93,2026-08-02T16:00:00Z,uncertain
-platform_findings-03,F-23,ACT-8,1,PLAT-C,,2026-08-04T09:00:00Z,not_found
+record_id,finding_id,action_id,action_revision,platform_id,local_object_ref,object_type,content_fingerprint,matched_at,match_state,ingest_batch
+platform_findings-01,F-21,ACT-7,1,PLAT-A,OBJ-51,post,FP-RUMOR-1,2026-08-01T12:00:00Z,confirmed,B1
+platform_findings-02,F-22,ACT-7,1,PLAT-B,OBJ-93,post,FP-RUMOR-1,2026-08-02T16:00:00Z,confirmed,B2
+platform_findings-03,F-23,ACT-7,2,PLAT-D,OBJ-104,video,FP-RUMOR-1,2026-08-03T10:00:00Z,confirmed,B3
+platform_findings-04,F-24,ACT-7,2,PLAT-C,OBJ-77,post,FP-RUMOR-1,2026-08-03T15:00:00Z,confirmed,B3
+platform_findings-05,F-25,ACT-8,1,PLAT-A,OBJ-31,account,FP-IMPERSONATION-2,2026-08-04T09:00:00Z,confirmed,B3
+platform_findings-06,F-26,ACT-8,1,PLAT-C,OBJ-40,account,FP-IMPERSONATION-2,2026-08-04T10:00:00Z,confirmed,B3
+platform_findings-07,F-27,ACT-8,1,PLAT-E,,account,FP-IMPERSONATION-2,2026-08-04T11:00:00Z,not_found,B3
+platform_findings-08,F-28,ACT-8,1,PLAT-E,OBJ-58,account,FP-IMPERSONATION-2,2026-08-05T09:00:00Z,confirmed,B4
+platform_findings-09,F-29,ACT-8,1,PLAT-C,OBJ-41,account,FP-IMPERSONATION-2,2026-08-05T15:00:00Z,uncertain,B4
+platform_findings-10,F-30,ACT-9,1,PLAT-D,OBJ-66,link,FP-REDIR-3,2026-08-08T09:00:00Z,confirmed,B5
+platform_findings-11,F-31,ACT-9,1,PLAT-B,OBJ-82,link,FP-REDIR-3,2026-08-08T14:00:00Z,confirmed,B5

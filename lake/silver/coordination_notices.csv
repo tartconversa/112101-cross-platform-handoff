@@ -1,0 +1,16 @@
+action_id,revision,platform_id,measure_code,measure_label,notified_at,notice_state,ingest_batch,record_id,source_file,source_row
+ACT-7,1,PLAT-A,restrict,限流,2026-08-01T09:00:00Z,delivered,B1,notices-01,coordination_notices.csv,2
+ACT-7,1,PLAT-B,restrict,限流,2026-08-01T09:00:00Z,delivered,B1,notices-02,coordination_notices.csv,3
+ACT-7,1,PLAT-D,restrict,限流,2026-08-01T09:00:00Z,delivered,B1,notices-03,coordination_notices.csv,4
+ACT-7,2,PLAT-A,restrict,限流,2026-08-02T11:00:00Z,delivered,B2,notices-04,coordination_notices.csv,5
+ACT-7,2,PLAT-B,restrict,限流,2026-08-02T11:00:00Z,delivered,B2,notices-05,coordination_notices.csv,6
+ACT-7,2,PLAT-C,restrict,限流,2026-08-02T11:00:00Z,delivered,B2,notices-06,coordination_notices.csv,7
+ACT-7,2,PLAT-D,restrict,限流,2026-08-02T11:00:00Z,delivered,B2,notices-07,coordination_notices.csv,8
+ACT-8,1,PLAT-A,takedown,下架,2026-08-03T13:00:00Z,delivered,B2,notices-08,coordination_notices.csv,9
+ACT-8,1,PLAT-C,takedown,下架,2026-08-03T13:00:00Z,delivered,B2,notices-09,coordination_notices.csv,10
+ACT-8,1,PLAT-E,takedown,下架,2026-08-03T13:00:00Z,delivered,B2,notices-10,coordination_notices.csv,11
+ACT-8,2,PLAT-A,takedown,下架,2026-08-06T10:00:00Z,delivered,B4,notices-11,coordination_notices.csv,12
+ACT-8,2,PLAT-E,takedown,下架,2026-08-06T10:00:00Z,delivered,B4,notices-12,coordination_notices.csv,13
+ACT-9,1,PLAT-B,restrict,限流,2026-08-07T11:00:00Z,delivered,B5,notices-13,coordination_notices.csv,14
+ACT-9,1,PLAT-D,restrict,限流,2026-08-07T11:00:00Z,delivered,B5,notices-14,coordination_notices.csv,15
+ACT-9,1,PLAT-E,restrict,限流,2026-08-07T11:00:00Z,delivered,B5,notices-15,coordination_notices.csv,16

@@ -6,7 +6,12 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-EXPECTED_SOURCES = ['actions.csv', 'platform_findings.csv', 'receipts.csv']
+EXPECTED_SOURCES = [
+    'actions.csv',
+    'coordination_notices.csv',
+    'platform_findings.csv',
+    'receipts.csv',
+]
 
 
 class SourceFileTests(unittest.TestCase):

@@ -1,0 +1,11 @@
+platform_id,action_id,latest_revision,disposition_state,disposition_label,measure_code,measure_label,notified_at,latest_received_at,open_issue,evidence_record_ids,as_of_batch
+PLAT-A,ACT-7,2,executed,已执行,restrict,限流,2026-08-02T11:00:00Z,2026-08-03T08:00:00Z,,notices-04|platform_findings-01|receipts-01|receipts-02,B5
+PLAT-A,ACT-8,2,executed,已执行,takedown,下架,2026-08-06T10:00:00Z,2026-08-05T10:00:00Z,,notices-11|platform_findings-05|receipts-06,B5
+PLAT-B,ACT-7,2,executed,已执行,restrict,限流,2026-08-02T11:00:00Z,2026-08-08T10:00:00Z,,notices-05|platform_findings-02|receipts-03|receipts-10,B5
+PLAT-B,ACT-9,1,under_review,正在核实,restrict,限流,2026-08-07T11:00:00Z,,平台核实中，等待处置回执,notices-13|platform_findings-11,B5
+PLAT-C,ACT-7,2,executed,已执行,restrict,限流,2026-08-02T11:00:00Z,2026-08-04T18:00:00Z,,notices-06|platform_findings-04|receipts-05,B5
+PLAT-C,ACT-8,2,withdrawn,已退出,takedown,下架,2026-08-03T13:00:00Z,2026-08-07T09:00:00Z,平台已随版本调整退出本行动,notices-09|platform_findings-09|receipts-09,B5
+PLAT-D,ACT-7,2,executed,已执行,restrict,限流,2026-08-02T11:00:00Z,2026-08-04T16:00:00Z,,notices-07|platform_findings-03|receipts-04,B5
+PLAT-D,ACT-9,1,executed,已执行,restrict,限流,2026-08-07T11:00:00Z,2026-08-09T11:00:00Z,,notices-14|platform_findings-10|receipts-11,B5
+PLAT-E,ACT-8,2,executed,已执行,takedown,下架,2026-08-06T10:00:00Z,2026-08-06T15:00:00Z,,notices-12|platform_findings-08|receipts-08,B5
+PLAT-E,ACT-9,1,not_reached,未触达,restrict,限流,2026-08-07T11:00:00Z,,通知已触达，等待平台核实反馈,notices-15,B5

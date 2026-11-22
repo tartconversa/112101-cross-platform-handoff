@@ -1,0 +1,8 @@
+content_fingerprint,action_id,platform_id,finding_id,local_object_ref,match_state,source_record_id
+FP-IMPERSONATION-2,ACT-8,PLAT-A,F-25,OBJ-31,confirmed,platform_findings-05
+FP-IMPERSONATION-2,ACT-8,PLAT-C,F-26,OBJ-40,confirmed,platform_findings-06
+FP-IMPERSONATION-2,ACT-8,PLAT-E,F-27,,not_found,platform_findings-07
+FP-RUMOR-1,ACT-7,PLAT-A,F-21,OBJ-51,confirmed,platform_findings-01
+FP-RUMOR-1,ACT-7,PLAT-B,F-22,OBJ-93,confirmed,platform_findings-02
+FP-RUMOR-1,ACT-7,PLAT-C,F-24,OBJ-77,confirmed,platform_findings-04
+FP-RUMOR-1,ACT-7,PLAT-D,F-23,OBJ-104,confirmed,platform_findings-03

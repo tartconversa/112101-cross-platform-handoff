@@ -1,0 +1,4 @@
+action_id,platform_id,latest_revision,coordinator,notified_measure_code,disposition_state,disposition_label,finding_id,local_object_ref,content_fingerprint,match_state,matched_at,latest_receipt_id,latest_receipt_state,latest_received_at,receipt_count,correction_count,executed_at,lead_time_hours,duplicate_delivery_count,evidence_record_ids,evidence_batches,as_of_batch
+ACT-7,PLAT-A,1,UNIT-1,restrict,under_review,正在核实,F-21,OBJ-51,FP-RUMOR-1,confirmed,2026-08-01T12:00:00Z,,,,0,0,,,0,notices-01|platform_findings-01,B1|B1,B1
+ACT-7,PLAT-B,1,UNIT-1,restrict,not_reached,未触达,,,,,,,,,0,0,,,0,notices-02,B1,B1
+ACT-7,PLAT-D,1,UNIT-1,restrict,not_reached,未触达,,,,,,,,,0,0,,,0,notices-03,B1,B1

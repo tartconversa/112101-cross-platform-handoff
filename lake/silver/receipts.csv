@@ -1,0 +1,13 @@
+receipt_id,finding_id,action_code,measure_code,receipt_state,correction_ref,received_at,ingest_batch,record_id,source_file,source_row
+RC-3,F-21,ACT-7,restrict,accepted,,2026-08-02T14:00:00Z,B2,receipts-01,receipts.csv,2
+RC-4,F-21,ACT-7,restrict,corrected,REV-2,2026-08-03T08:00:00Z,B3,receipts-02,receipts.csv,3
+RC-5,F-22,ACT-7,restrict,needs_evidence,,2026-08-05T11:00:00Z,B4,receipts-03,receipts.csv,4
+RC-6,F-23,ACT-7,restrict,accepted,,2026-08-04T16:00:00Z,B4,receipts-04,receipts.csv,5
+RC-7,F-24,ACT-7,restrict,accepted,,2026-08-04T18:00:00Z,B4,receipts-05,receipts.csv,6
+RC-8,F-25,ACT-8,takedown,accepted,,2026-08-05T10:00:00Z,B4,receipts-06,receipts.csv,7
+RC-9,F-26,ACT-8,takedown,accepted,,2026-08-05T12:00:00Z,B4,receipts-07,receipts.csv,8
+RC-10,F-28,ACT-8,takedown,accepted,,2026-08-06T15:00:00Z,B4,receipts-08,receipts.csv,9
+RC-11,F-29,ACT-8,takedown,needs_evidence,,2026-08-07T09:00:00Z,B5,receipts-09,receipts.csv,10
+RC-12,F-22,ACT-7,restrict,accepted,,2026-08-08T10:00:00Z,B5,receipts-10,receipts.csv,11
+RC-13,F-30,ACT-9,restrict,accepted,,2026-08-09T11:00:00Z,B5,receipts-11,receipts.csv,12
+RC-14,F-31,ACT-9,restrict,accepted,,2026-08-15T09:00:00Z,B6,receipts-13,receipts.csv,14

@@ -1,0 +1,1 @@
+{"duplicate_of_record_id": "receipts-07", "ingest_batch": "B5", "landed_at": "2026-11-22T02:51:32Z", "natural_key": {"receipt_id": "RC-9"}, "reason": "natural_key 已存在且内容一致，重复投递不计作独立处置", "record_id": "receipts-12", "source_file": "receipts.csv"}

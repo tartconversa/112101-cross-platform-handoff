@@ -1,0 +1,142 @@
+{
+  "batches": [
+    {
+      "accepted": {
+        "actions.csv": 1,
+        "coordination_notices.csv": 3,
+        "platform_findings.csv": 1,
+        "receipts.csv": 0
+      },
+      "accepted_total": 5,
+      "batch": "B1",
+      "duplicate_deliveries": 0,
+      "quarantined": 0,
+      "ran_at": "2026-11-22T02:51:31Z",
+      "skipped_rerun": 0
+    },
+    {
+      "accepted": {
+        "actions.csv": 2,
+        "coordination_notices.csv": 7,
+        "platform_findings.csv": 1,
+        "receipts.csv": 1
+      },
+      "accepted_total": 11,
+      "batch": "B2",
+      "duplicate_deliveries": 0,
+      "quarantined": 0,
+      "ran_at": "2026-11-22T02:51:32Z",
+      "skipped_rerun": 0
+    },
+    {
+      "accepted": {
+        "actions.csv": 0,
+        "coordination_notices.csv": 0,
+        "platform_findings.csv": 5,
+        "receipts.csv": 1
+      },
+      "accepted_total": 6,
+      "batch": "B3",
+      "duplicate_deliveries": 0,
+      "quarantined": 0,
+      "ran_at": "2026-11-22T02:51:32Z",
+      "skipped_rerun": 0
+    },
+    {
+      "accepted": {
+        "actions.csv": 1,
+        "coordination_notices.csv": 2,
+        "platform_findings.csv": 2,
+        "receipts.csv": 6
+      },
+      "accepted_total": 11,
+      "batch": "B4",
+      "duplicate_deliveries": 0,
+      "quarantined": 0,
+      "ran_at": "2026-11-22T02:51:32Z",
+      "skipped_rerun": 0
+    },
+    {
+      "accepted": {
+        "actions.csv": 1,
+        "coordination_notices.csv": 3,
+        "platform_findings.csv": 2,
+        "receipts.csv": 3
+      },
+      "accepted_total": 9,
+      "batch": "B5",
+      "duplicate_deliveries": 1,
+      "quarantined": 0,
+      "ran_at": "2026-11-22T02:51:32Z",
+      "skipped_rerun": 0
+    },
+    {
+      "accepted": {
+        "actions.csv": 0,
+        "coordination_notices.csv": 0,
+        "platform_findings.csv": 0,
+        "receipts.csv": 1
+      },
+      "accepted_total": 1,
+      "batch": "B6",
+      "duplicate_deliveries": 0,
+      "quarantined": 0,
+      "ran_at": "2026-11-22T02:51:32Z",
+      "skipped_rerun": 0
+    }
+  ],
+  "deliveries": {
+    "actions.csv": [
+      "actions-01",
+      "actions-02",
+      "actions-03",
+      "actions-04",
+      "actions-05"
+    ],
+    "coordination_notices.csv": [
+      "notices-01",
+      "notices-02",
+      "notices-03",
+      "notices-04",
+      "notices-05",
+      "notices-06",
+      "notices-07",
+      "notices-08",
+      "notices-09",
+      "notices-10",
+      "notices-11",
+      "notices-12",
+      "notices-13",
+      "notices-14",
+      "notices-15"
+    ],
+    "platform_findings.csv": [
+      "platform_findings-01",
+      "platform_findings-02",
+      "platform_findings-03",
+      "platform_findings-04",
+      "platform_findings-05",
+      "platform_findings-06",
+      "platform_findings-07",
+      "platform_findings-08",
+      "platform_findings-09",
+      "platform_findings-10",
+      "platform_findings-11"
+    ],
+    "receipts.csv": [
+      "receipts-01",
+      "receipts-02",
+      "receipts-03",
+      "receipts-04",
+      "receipts-05",
+      "receipts-06",
+      "receipts-07",
+      "receipts-08",
+      "receipts-09",
+      "receipts-10",
+      "receipts-11",
+      "receipts-12",
+      "receipts-13"
+    ]
+  }
+}

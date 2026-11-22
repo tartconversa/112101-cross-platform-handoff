@@ -1,0 +1,8 @@
+platform_id,action_id,latest_revision,disposition_state,disposition_label,measure_code,measure_label,notified_at,latest_received_at,open_issue,evidence_record_ids,as_of_batch
+PLAT-A,ACT-7,2,executed,已执行,restrict,限流,2026-08-02T11:00:00Z,2026-08-02T14:00:00Z,,notices-04|platform_findings-01|receipts-01,B2
+PLAT-A,ACT-8,1,not_reached,未触达,takedown,下架,2026-08-03T13:00:00Z,,通知已触达，等待平台核实反馈,notices-08,B2
+PLAT-B,ACT-7,2,under_review,正在核实,restrict,限流,2026-08-02T11:00:00Z,,平台核实中，等待处置回执,notices-05|platform_findings-02,B2
+PLAT-C,ACT-7,2,not_reached,未触达,restrict,限流,2026-08-02T11:00:00Z,,通知已触达，等待平台核实反馈,notices-06,B2
+PLAT-C,ACT-8,1,not_reached,未触达,takedown,下架,2026-08-03T13:00:00Z,,通知已触达，等待平台核实反馈,notices-09,B2
+PLAT-D,ACT-7,2,not_reached,未触达,restrict,限流,2026-08-02T11:00:00Z,,通知已触达，等待平台核实反馈,notices-07,B2
+PLAT-E,ACT-8,1,not_reached,未触达,takedown,下架,2026-08-03T13:00:00Z,,通知已触达，等待平台核实反馈,notices-10,B2
